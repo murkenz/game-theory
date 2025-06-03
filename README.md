@@ -1,1 +1,2 @@
 # game-theory
+Genetic Algorithm
